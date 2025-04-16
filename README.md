@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<span style="color: green;">Habilidades de Hacker:</span>
+
 
 <!---
 zdviana/zdviana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
